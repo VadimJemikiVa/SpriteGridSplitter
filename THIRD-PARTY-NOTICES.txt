@@ -1,0 +1,229 @@
+THIRD-PARTY NOTICES
+SpriteGrid Splitter
+Copyright © JemikiVa
+
+This file lists third-party software components used by SpriteGrid Splitter
+and their applicable licenses.
+
+The source code of SpriteGrid Splitter itself is licensed separately under
+the PolyForm Noncommercial License 1.0.0. This file applies only to the
+third-party components listed below.
+
+Each third-party component remains subject to its own license. Nothing in
+the license of SpriteGrid Splitter changes the license terms of third-party
+software.
+
+======================================================================
+1. Pillow 10.4.0
+======================================================================
+
+Project: Pillow
+Website: https://python-pillow.org/
+License: Historical Permission Notice and Disclaimer (HPND)
+
+Pillow is used for image loading, processing, frame extraction, trimming,
+and PNG/WebP output.
+
+Copyright and license information for Pillow is provided with the Pillow
+distribution.
+
+======================================================================
+2. PyWebView 6.2.1
+======================================================================
+
+Project: PyWebView
+Website: https://pywebview.flowrl.com/
+License: BSD 3-Clause License
+
+PyWebView is used to provide the application's desktop window and the
+HTML/CSS/JavaScript user interface.
+
+Copyright (c) 2014-2017, Roman Sirokov
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+======================================================================
+3. Bottle 0.13.4
+======================================================================
+
+Project: Bottle
+Website: https://bottle.readthedocs.io/
+License: MIT License
+
+Bottle is a dependency of PyWebView.
+
+Copyright (c) 2009-2024, Marcel Hellkamp.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+======================================================================
+4. importlib_resources 6.4.5
+======================================================================
+
+Project: importlib_resources
+License: Apache License 2.0
+
+importlib_resources is a dependency of PyWebView.
+
+The Apache License 2.0 applies to this component. See the component's
+distribution for the complete license text and applicable notices.
+
+======================================================================
+5. proxy_tools 0.1.0
+======================================================================
+
+Project: proxy_tools
+License: MIT License
+
+proxy_tools is a dependency of PyWebView.
+
+Copyright (c) Jonathan Tushman.
+
+The MIT License applies to this component.
+
+======================================================================
+6. pythonnet 3.0.5
+======================================================================
+
+Project: Python.NET
+Website: https://pythonnet.github.io/
+License: MIT License
+
+Python.NET is a dependency of PyWebView on the Windows backend.
+
+The MIT License applies to this component.
+
+======================================================================
+7. clr_loader 0.2.10
+======================================================================
+
+Project: clr_loader
+License: MIT License
+
+clr_loader is a dependency of Python.NET.
+
+Copyright (c) Benedikt Reinartz.
+
+The MIT License applies to this component.
+
+======================================================================
+8. typing_extensions 4.13.2
+======================================================================
+
+Project: typing_extensions
+License: PSF-2.0 License
+
+typing_extensions is a dependency of PyWebView.
+
+The PSF-2.0 License applies to this component.
+
+======================================================================
+9. cffi 1.17.1
+======================================================================
+
+Project: cffi
+License: MIT License
+
+cffi is a dependency of clr_loader.
+
+The MIT License applies to this component.
+
+======================================================================
+10. pycparser 2.23
+======================================================================
+
+Project: pycparser
+License: BSD 3-Clause License
+
+pycparser is a dependency of cffi.
+
+The BSD 3-Clause License applies to this component.
+
+======================================================================
+11. Tcl/Tk
+======================================================================
+
+Project: Tcl/Tk
+Website: https://www.tcl-lang.org/
+License: Tcl/Tk License
+
+Tkinter, used by SpriteGrid Splitter for native file dialogs and message
+boxes, is part of Python's standard library and uses Tcl/Tk.
+
+Tcl/Tk remains subject to its own license terms.
+
+======================================================================
+12. Python
+======================================================================
+
+Project: Python
+Website: https://www.python.org/
+License: Python Software Foundation License
+
+SpriteGrid Splitter is developed using Python. Python's standard library,
+including tkinter, is used by the application.
+
+Python remains subject to the Python Software Foundation License and its
+applicable copyright notices.
+
+======================================================================
+BUILD-TIME TOOL
+======================================================================
+
+PyInstaller 6.22.3 was used to build the Windows executable.
+
+PyInstaller is licensed under GPLv2-or-later with a special exception that
+allows PyInstaller to be used to build and distribute non-free programs,
+including commercial programs.
+
+PyInstaller is a build-time tool and is not a project runtime dependency.
+Its license does not replace or modify the licenses of the runtime
+components listed above.
+
+Project: PyInstaller
+Website: https://pyinstaller.org/
+
+======================================================================
+End of THIRD-PARTY-NOTICES
+======================================================================

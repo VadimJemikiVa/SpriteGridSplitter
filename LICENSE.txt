@@ -1,0 +1,31 @@
+PolyForm Noncommercial License 1.0.0
+
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+Required Notice: Copyright (c) 2026 JemikiVa
+
+SpriteGrid Splitter is licensed under the PolyForm Noncommercial License
+1.0.0.
+
+The complete and controlling text of the PolyForm Noncommercial License
+1.0.0 is available at the official PolyForm Project URL above.
+
+This LICENSE file identifies the license and provides the required
+notice. It does not modify or replace the official PolyForm
+Noncommercial License 1.0.0.
+
+The PolyForm Noncommercial License 1.0.0 applies to the SpriteGrid
+Splitter software and source code authored by JemikiVa, except for
+third-party components that are separately identified as being subject
+to their own licenses.
+
+Third-party components are not relicensed by this file. Their respective
+copyright notices and license terms remain applicable.
+
+See THIRD-PARTY-NOTICES.txt for the third-party software notices
+included with this project.
+
+For permissions, conditions, restrictions, and definitions, refer to the
+complete official PolyForm Noncommercial License 1.0.0 at:
+
+https://polyformproject.org/licenses/noncommercial/1.0.0
