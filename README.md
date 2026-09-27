@@ -1,7 +1,10 @@
-# SpriteGrid Splitter
+SpriteGrid Splitter
 
-**SpriteGrid Splitter** is a small portable Windows utility for
-splitting sprite-sheet images into individual animation frames.
+A small portable Windows tool for converting long or horizontal sprite strips into grid-based sprite sheets.
+
+SpriteGrid Splitter takes a sprite sheet containing animation frames arranged in a strip or other linear layout and reorganizes those frames into a regular grid.
+
+It is designed for a simple workflow when an existing animation strip needs to be converted into a more practical sprite-sheet layout for use in game engines and other graphics tools.
 
 Copyright © 2026 JemikiVa
 
